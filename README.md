@@ -14,8 +14,6 @@ Here are some ideas to get you started: -->
 
 ## 🙋‍♂️ About Me
 
-<hr />
-
 <!-- - 🔭 I’m currently working on ... -->
 - 🌱 I’m currently learning [NextJs](https://nextjs.org) and [Typescript](https://www.typescriptlang.org)
 <!-- - 👯 I’m looking to collaborate on ... -->
@@ -26,8 +24,6 @@ Here are some ideas to get you started: -->
 <!-- - ⚡ Fun fact: ... -->
 
 ## <div style="display: flex; flex; align-items: center;"><img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuaQtCfW4ge0mEGtmyp0b8MGRbe7AX-Xltgg&usqp=CAU' width='25px' height='25px' /><span style='margin-left: 5px;'>Programming Languages and Frameworks:</span></div>
-
-<hr />
 
 <p align="left">
     <img alt="html" src="https://img.icons8.com/color/48/000000/html-5.png"/>
@@ -45,8 +41,6 @@ Here are some ideas to get you started: -->
 
 ## <div style="display: flex; align-items: center;"><img src="https://img.icons8.com/fluency/25/000000/server-shutdown.png" alt='server-shutdown'/>Databases and Cloud Hosting:</div>
 
-<hr/>
-
 <p align='lest' style='display: flex; align-items: center;'>
     <img alt='heroku' src="https://img.icons8.com/color/40/000000/heroku.png" style='margin-right: 4px'/>
     <img src="https://img.icons8.com/color/48/000000/mongodb.png" style='margin-right: 4px'/>
@@ -54,8 +48,6 @@ Here are some ideas to get you started: -->
 </p>
 
 ## <div style="display: flex;"><img src="https://img.icons8.com/external-outline-juicy-fish/30/000000/external-software-waterfall-development-outline-outline-juicy-fish.png"/><span style='margin-left: 5px;'>Software and Tools:</span></div>
-
-<hr />
 
 <p align="left" style='display: flex; align-items: center;'>
     <img alt='ubuntu' src="https://img.icons8.com/color/48/000000/ubuntu--v1.png" style='margin-right: 4px'/>
@@ -67,8 +59,6 @@ Here are some ideas to get you started: -->
 </p>
 
 ## 📊 My Github Stats
-
-<hr/>
 
 ![Mirzamurod's GitHub stats](https://github-readme-stats.vercel.app/api?username=mirzamurod&theme=dark&show_icons=true&border=false)
 
@@ -84,7 +74,6 @@ Here are some ideas to get you started: -->
 
 ## <div style="display: flex;"><img src="https://img.icons8.com/fluency/48/000000/cloud-link.png" width='30px'/><span style='margin-left: 5px;'>Connect with me:</span></div>
 <!-- ## 🔗 Connect with me: -->
-<hr/>
 
 <p align="left">
     <a href = "https://www.linkedin.com/in/mirzamurod-rahimberdiyev-56a936229/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
@@ -96,5 +85,5 @@ Here are some ideas to get you started: -->
 
 ## ❤️ Views and Followers
 
-<img src="https://komarev.com/ghpvc/?username=Mirzamurod">
+<a href='#'><img src="https://komarev.com/ghpvc/?username=Mirzamurod"></a>
 <a href="https://github.com/Mirzamurod?tab=followers"><img src="https://img.shields.io/github/followers/Mirzamurod?label=Followers&style=social" alt="GitHub Badge"></a>
