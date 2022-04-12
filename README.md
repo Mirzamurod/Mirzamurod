@@ -41,21 +41,21 @@ Here are some ideas to get you started: -->
 
 ## <div style="display: flex; align-items: center;"><img src="https://img.icons8.com/fluency/25/000000/server-shutdown.png" alt='server-shutdown'/>Databases and Cloud Hosting:</div>
 
-<p align='lest' style='display: flex; align-items: center;'>
-    <img alt='heroku' src="https://img.icons8.com/color/40/000000/heroku.png" style='margin-right: 4px'/>
+<p align='lest'>
+    <img alt='heroku' src="https://img.icons8.com/color/48/000000/heroku.png" style='margin-right: 4px'/>
     <img src="https://img.icons8.com/color/48/000000/mongodb.png" style='margin-right: 4px'/>
-    <img alt='netlify' src='./netlify.svg' width='35px' style='margin-right: 4px' />
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/45/000000/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-color-tal-revivo.png"/>
 </p>
 
 ## <div style="display: flex;"><img src="https://img.icons8.com/external-outline-juicy-fish/30/000000/external-software-waterfall-development-outline-outline-juicy-fish.png"/><span style='margin-left: 5px;'>Software and Tools:</span></div>
 
-<p align="left" style='display: flex; align-items: center;'>
-    <img alt='ubuntu' src="https://img.icons8.com/color/48/000000/ubuntu--v1.png" style='margin-right: 4px'/>
-    <img alt='postman' src="./postman.svg" width='40px'  style='margin-right: 4px'/>
-    <img alt='git' src="https://img.icons8.com/color/48/000000/git.png" style='margin-right: 4px'/>
-    <img alt='vscode' src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" style='margin-right: 7px'/>
-    <img alt='sublime' src='https://cdn.worldvectorlogo.com/logos/sublime-text.svg' width='40'  style='margin-right: 4px' />
-    <img alt='stackoverflow' src="./stackoverflow.png" style='margin-right: 4px'/>
+<p align="left">
+    <img alt='ubuntu' src="https://img.icons8.com/color/48/000000/ubuntu--v1.png" style='margin-right: 4px' width='40px' height='40px'/>
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/45/000000/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png"/>
+    <img alt='git' src="https://img.icons8.com/color/48/000000/git.png" style='margin-right: 4px' width='40px' height='40px'/>
+    <img alt='vscode' src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" style='margin-right: 7px' width='40px' height='40px'/>
+    <img alt='sublime' src='https://cdn.worldvectorlogo.com/logos/sublime-text.svg' width='40px' height='40px' style='margin-right: 4px' />
+    <img alt='stackoverflow' src="./stackoverflow.png" style='margin-right: 4px' width='40px' height='40px'/>
 </p>
 
 ## 📊 My Github Stats
