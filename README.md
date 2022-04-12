@@ -22,7 +22,7 @@ Here are some ideas to get you started: -->
 - 📫 How to reach me: rahimberdiyevmirzamurod@gmail.com
 - 👨‍💻 All of my projects are available at [Mirzamurod](https://mirzamurod.netlify.app)
 - 😄 Pronouns: he/him/his
-- 📄 Know about my experiences 
+<!-- - 📄 Know about my experiences -->
 <!-- - ⚡ Fun fact: ... -->
 
 ## 👨‍💻 Programming Languages and Frameworks:
