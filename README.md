@@ -14,16 +14,18 @@ Here are some ideas to get you started: -->
 
 ## 🙋‍♂️ About Me
 
-<!-- - 🔭 I’m currently working on ... -->
+- 🔭 I’m currently working on [PcStore](https://github.com/Mirzamurod/PcStore)
 - 🌱 I’m currently learning [NextJs](https://nextjs.org) and [Typescript](https://www.typescriptlang.org)
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
-- 💬 Ask me about [Mirzamurod](https://mirzamurod.netlify.app)
-<!-- - 📫 How to reach me: ... -->
+- 💬 Ask me about React
+- 📫 How to reach me: rahimberdiyevmirzamurod@gmail.com
+- 👨‍💻 All of my projects are available at [Mirzamurod](https://mirzamurod.netlify.app)
 - 😄 Pronouns: he/him/his
+- 📄 Know about my experiences 
 <!-- - ⚡ Fun fact: ... -->
 
-## <div style="display: flex; flex; align-items: center;"><img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuaQtCfW4ge0mEGtmyp0b8MGRbe7AX-Xltgg&usqp=CAU' width='25px' height='25px' /><span style='margin-left: 5px;'>Programming Languages and Frameworks:</span></div>
+## 👨‍💻 Programming Languages and Frameworks:
 
 <p align="left">
     <img alt="html" src="https://img.icons8.com/color/48/000000/html-5.png"/>
@@ -39,7 +41,7 @@ Here are some ideas to get you started: -->
     <img  alt="material-ui" src="https://img.icons8.com/color/48/000000/material-ui.png"/>
 </p>
 
-## <div style="display: flex; align-items: center;"><img src="https://img.icons8.com/fluency/25/000000/server-shutdown.png" alt='server-shutdown'/>Databases and Cloud Hosting:</div>
+## 🗄 Databases and Cloud Hosting:
 
 <p align='lest'>
     <img alt='heroku' src="https://img.icons8.com/color/48/000000/heroku.png" style='margin-right: 4px'/>
@@ -47,14 +49,15 @@ Here are some ideas to get you started: -->
     <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/45/000000/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-color-tal-revivo.png"/>
 </p>
 
-## <div style="display: flex;"><img src="https://img.icons8.com/external-outline-juicy-fish/30/000000/external-software-waterfall-development-outline-outline-juicy-fish.png"/><span style='margin-left: 5px;'>Software and Tools:</span></div>
+## 🖥 Software and Tools:
 
 <p align="left">
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/45/000000/external-ubuntu-is-a-free-and-open-source-linux-distribution-logo-color-tal-revivo.png"/>
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/45/000000/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png"/>
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/45/000000/external-visual-studio-code-is-a-source-code-editor-developed-by-microsoft-logo-color-tal-revivo.png"/>
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/45/000000/external-sublime-text-a-sophisticated-text-editor-for-code-markup-language-logo-color-tal-revivo.png"/>
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/45/000000/external-stack-overflow-web-portal-for-professional-and-enthusiast-programmers-logo-color-tal-revivo.png"/>
+    <img alt='ubuntu' src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/45/000000/external-ubuntu-is-a-free-and-open-source-linux-distribution-logo-color-tal-revivo.png"/>
+    <img alt='postman' src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/45/000000/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png"/>
+    <img alt='vscode' src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/45/000000/external-visual-studio-code-is-a-source-code-editor-developed-by-microsoft-logo-color-tal-revivo.png"/>
+    <img alt='sublime' src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/45/000000/external-sublime-text-a-sophisticated-text-editor-for-code-markup-language-logo-color-tal-revivo.png"/>
+    <img alt='stackoverflow' src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/45/000000/external-stack-overflow-web-portal-for-professional-and-enthusiast-programmers-logo-color-tal-revivo.png"/>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/>
 </p>
 
 ## 📊 My Github Stats
@@ -67,11 +70,11 @@ Here are some ideas to get you started: -->
 
 <img alt="Mirzamurod's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Mirzamurod&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=false" />
 
-<!-- <p align="center">
-    <img alt="Mirzamurod's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Mirzamurod&theme=black-ice&hide_border=false&stroke=0000&background=060A0CD0"/>
-</p> -->
+<p align="center">
+    <img alt="Mirzamurod's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Mirzamurod&theme=black-ice&hide_border=false&stroke=0000&background=060A0CD0&date_format=j%20M%5B%20Y%5D"/>
+</p>
 
-## <div style="display: flex;"><img src="https://img.icons8.com/fluency/48/000000/cloud-link.png" width='30px'/><span style='margin-left: 5px;'>Connect with me:</span></div>
+## 📬 Connect with me:
 <!-- ## 🔗 Connect with me: -->
 
 <p align="left">
