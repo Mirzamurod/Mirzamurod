@@ -49,13 +49,13 @@ Here are some ideas to get you started: -->
 
 ## <div style="display: flex;"><img src="https://img.icons8.com/external-outline-juicy-fish/30/000000/external-software-waterfall-development-outline-outline-juicy-fish.png"/><span style='margin-left: 5px;'>Software and Tools:</span></div>
 
-<p align="left">
-    <img alt='ubuntu' src="https://img.icons8.com/color/48/000000/ubuntu--v1.png" style='margin-right: 4px' width='40px' height='40px'/>
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/45/000000/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png"/>
-    <img alt='git' src="https://img.icons8.com/color/48/000000/git.png" style='margin-right: 4px' width='40px' height='40px'/>
-    <img alt='vscode' src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" style='margin-right: 7px' width='40px' height='40px'/>
-    <img alt='sublime' src='https://cdn.worldvectorlogo.com/logos/sublime-text.svg' width='40px' height='40px' style='margin-right: 4px' />
-    <img alt='stackoverflow' src="./stackoverflow.png" style='margin-right: 4px' width='40px' height='40px'/>
+<p align="left" style='display: flex; align-items: center;'>
+    <img alt='ubuntu' src="https://img.icons8.com/color/48/000000/ubuntu--v1.png" style='margin-right: 4px'/>
+    <img alt='postman' src="./postman.svg" width='40px'  style='margin-right: 4px'/>
+    <img alt='git' src="https://img.icons8.com/color/48/000000/git.png" style='margin-right: 4px'/>
+    <img alt='vscode' src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" style='margin-right: 7px'/>
+    <img alt='sublime' src='https://cdn.worldvectorlogo.com/logos/sublime-text.svg' width='40'  style='margin-right: 4px' />
+    <img alt='stackoverflow' src="./stackoverflow.png" style='margin-right: 4px'/>
 </p>
 
 ## 📊 My Github Stats
