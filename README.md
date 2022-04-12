@@ -49,13 +49,12 @@ Here are some ideas to get you started: -->
 
 ## <div style="display: flex;"><img src="https://img.icons8.com/external-outline-juicy-fish/30/000000/external-software-waterfall-development-outline-outline-juicy-fish.png"/><span style='margin-left: 5px;'>Software and Tools:</span></div>
 
-<p align="left" style='display: flex; align-items: center;'>
-    <img alt='ubuntu' src="https://img.icons8.com/color/48/000000/ubuntu--v1.png" style='margin-right: 4px'/>
-    <img alt='postman' src="./postman.svg" width='40px'  style='margin-right: 4px'/>
-    <img alt='git' src="https://img.icons8.com/color/48/000000/git.png" style='margin-right: 4px'/>
-    <img alt='vscode' src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" style='margin-right: 7px'/>
-    <img alt='sublime' src='https://cdn.worldvectorlogo.com/logos/sublime-text.svg' width='40'  style='margin-right: 4px' />
-    <img alt='stackoverflow' src="./stackoverflow.png" style='margin-right: 4px'/>
+<p align="left">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/45/000000/external-ubuntu-is-a-free-and-open-source-linux-distribution-logo-color-tal-revivo.png"/>
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/45/000000/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png"/>
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/45/000000/external-visual-studio-code-is-a-source-code-editor-developed-by-microsoft-logo-color-tal-revivo.png"/>
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/45/000000/external-sublime-text-a-sophisticated-text-editor-for-code-markup-language-logo-color-tal-revivo.png"/>
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/45/000000/external-stack-overflow-web-portal-for-professional-and-enthusiast-programmers-logo-color-tal-revivo.png"/>
 </p>
 
 ## 📊 My Github Stats
