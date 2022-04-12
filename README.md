@@ -50,11 +50,11 @@ Here are some ideas to get you started: -->
 ## <div style="display: flex;"><img src="https://img.icons8.com/external-outline-juicy-fish/30/000000/external-software-waterfall-development-outline-outline-juicy-fish.png"/><span style='margin-left: 5px;'>Software and Tools:</span></div>
 
 <p align="left">
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/45/000000/external-ubuntu-is-a-free-and-open-source-linux-distribution-logo-color-tal-revivo.png"/>
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/45/000000/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png"/>
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/45/000000/external-visual-studio-code-is-a-source-code-editor-developed-by-microsoft-logo-color-tal-revivo.png"/>
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/45/000000/external-sublime-text-a-sophisticated-text-editor-for-code-markup-language-logo-color-tal-revivo.png"/>
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/45/000000/external-stack-overflow-web-portal-for-professional-and-enthusiast-programmers-logo-color-tal-revivo.png"/>
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/45/000000/external-ubuntu-is-a-free-and-open-source-linux-distribution-logo-color-tal-revivo.png" style='margin-right: 7px;'/>
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/45/000000/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" style='margin-right: 7px;'/>
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/45/000000/external-visual-studio-code-is-a-source-code-editor-developed-by-microsoft-logo-color-tal-revivo.png" style='margin-right: 7px;'/>
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/45/000000/external-sublime-text-a-sophisticated-text-editor-for-code-markup-language-logo-color-tal-revivo.png" style='margin-right: 7px;'/>
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/45/000000/external-stack-overflow-web-portal-for-professional-and-enthusiast-programmers-logo-color-tal-revivo.png" style='margin-right: 7px;'/>
 </p>
 
 ## 📊 My Github Stats
