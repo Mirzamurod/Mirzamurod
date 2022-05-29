@@ -67,10 +67,10 @@ Here are some ideas to get you started: -->
 <img alt="Mirzamurod's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mirzamurod&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=false&bg_color=0D1117" />
 
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<!-- 
+<img alt="Mirzamurod's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Mirzamurod&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=false" /> -->
 
-<img alt="Mirzamurod's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Mirzamurod&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=false" />
-
-<p align="center">
+<p align="left">
     <img alt="Mirzamurod's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Mirzamurod&theme=black-ice&hide_border=false&stroke=0000&background=060A0CD0&date_format=j%20M%5B%20Y%5D"/>
 </p>
 
