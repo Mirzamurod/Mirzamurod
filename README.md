@@ -82,7 +82,7 @@ Here are some ideas to get you started: -->
     <a href="https://www.facebook.com/mrmirzamurod.rahimberdiyev.1/"><img src="https://img.icons8.com/fluency/48/000000/facebook-new.png"/></a>
     <a href = "https://www.instagram.com/m_rahimberdiyev77/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
     <a href="https://t.me/MaSTeR_R_M"><img src="https://img.icons8.com/fluency/48/000000/telegram-app.png"/></a>
-    <a href = "https://mirzamurod.netlify.app/"><img src="https://img.icons8.com/ios-filled/50/000000/domain.png"/></a>
+    <a href = "https://mirzamurod.uz/"><img src="https://img.icons8.com/ios-filled/50/000000/domain.png"/></a>
 </p>
 
 ## ❤️ Views and Followers
