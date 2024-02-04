@@ -20,7 +20,7 @@ Here are some ideas to get you started: -->
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about React
 - 📫 How to reach me: rahimberdiyevmirzamurod@gmail.com
-- 👨‍💻 All of my projects are available at [Mirzamurod](https://mirzamurod.netlify.app)
+- 👨‍💻 All of my projects are available at [Mirzamurod](https://mirzamurod.uz)
 - 😄 Pronouns: he/him/his
 <!-- - 📄 Know about my experiences -->
 <!-- - ⚡ Fun fact: ... -->
