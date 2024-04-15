@@ -52,7 +52,7 @@ Here are some ideas to get you started: -->
 ## 🖥 Software and Tools:
 
 <p align="left">
-    <img alt='ubuntu' src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/45/000000/external-ubuntu-is-a-free-and-open-source-linux-distribution-logo-color-tal-revivo.png"/>
+    <img alt='manjaro' src="https://static-00.iconduck.com/assets.00/distributor-logo-manjaro-icon-1024x1023-oodbxw32.png" width="45" height="45" />
     <img alt='postman' src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/45/000000/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png"/>
     <img alt='vscode' src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/45/000000/external-visual-studio-code-is-a-source-code-editor-developed-by-microsoft-logo-color-tal-revivo.png"/>
     <img alt='sublime' src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/45/000000/external-sublime-text-a-sophisticated-text-editor-for-code-markup-language-logo-color-tal-revivo.png"/>
@@ -78,11 +78,11 @@ Here are some ideas to get you started: -->
 <!-- ## 🔗 Connect with me: -->
 
 <p align="left">
-    <a href = "https://www.linkedin.com/in/mirzamurod-rahimberdiyev-56a936229/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-    <a href="https://www.facebook.com/mrmirzamurod.rahimberdiyev.1/"><img src="https://img.icons8.com/fluency/48/000000/facebook-new.png"/></a>
-    <a href = "https://www.instagram.com/m_rahimberdiyev77/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+    <!-- <a href = "https://www.linkedin.com/in/mirzamurod-rahimberdiyev-56a936229/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a> -->
+    <!-- <a href="https://www.facebook.com/mrmirzamurod.rahimberdiyev.1/"><img src="https://img.icons8.com/fluency/48/000000/facebook-new.png"/></a> -->
+    <!-- <a href = "https://www.instagram.com/m_rahimberdiyev77/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a> -->
     <a href="https://t.me/MaSTeR_R_M"><img src="https://img.icons8.com/fluency/48/000000/telegram-app.png"/></a>
-    <a href = "https://mirzamurod.uz/"><img src="https://img.icons8.com/ios-filled/50/000000/domain.png"/></a>
+    <a href = "https://mirzamurod.uz/"><img src="https://cdn-icons-png.flaticon.com/512/5602/5602732.png" width="45" height="45" /></a>
 </p>
 
 ## ❤️ Views and Followers
